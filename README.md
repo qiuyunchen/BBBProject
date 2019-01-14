@@ -1,13 +1,15 @@
-# BBBProject: 
-### Full-Stack N&W: Collaboration 
+# BBBProject
+
+## Full-Stack N&W: Collaboration 
 
 
-### Official Start Date: 
-*Tuesday January 15th 2019*
+#### Official Start Date:  *Tuesday, January 15th, 2019*
 ___
 
-
-![wireframe of index page](/assets/images/wire.png)
+ | Sample 1 | Sample 2|
+:---:|:---:| 
+|![wireframe of index page](/assets/images/wire.png)| ![illustration of index page with program colors](/assets/images/TK_mockup.png)
+ [Alex](https://github.com/aionate0812)| [TK](https://github.com/Karan-Taneja)
 
 ## Goals
 
