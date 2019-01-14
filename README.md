@@ -46,7 +46,7 @@ ___
 
 ## Contributors
 
-|   | Participants  | Team             | Position       | GitHub                                         |
+|   | Name          | Team             | Position       | GitHub                                         |
 |--:| ------------- |:----------------:|:--------------:|-----------------------------------------------:|
 | 1 | Alex Onate    | Desktop          |  Project Owner |[Alex](https://github.com/aionate0812)          |
 | 2 | Jorge Billini | Firebase         |  Scrum Master  |[Jorge](https://github.com/JorgeBillini)        |
