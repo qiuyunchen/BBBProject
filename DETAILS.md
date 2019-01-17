@@ -27,7 +27,7 @@ First Meeting: 1/13/19
 
 Users will have the ability to search for fellows via this page.
 
-First Meeting: 1/13/19  
+First Meeting: 2019-01-13  
 ⋅⋅⋅ Search Team 5.2 - TK, Q, Sid, & Serge
 > Info Pending
 
@@ -36,7 +36,7 @@ First Meeting: 1/13/19
 
 Mock-up console able to take commands.
 
- First Meeting: 1/13/19   
+ First Meeting: 2019-01-13   
 ⋅⋅⋅ Console Team 5.2 - Daniel, Jay, & Rich
 
 > Synopsis
@@ -77,9 +77,58 @@ Mock-up console able to take commands.
 
 Mock-up desktop, mimicing a desktop enviorment.  
 
-First Meeting: 1/13/19   
+No  Meeting: 2019-01-13   
 ⋅⋅⋅ Desktop Team 5.2 - Pam, Erika, Alex, & Robert
 > **_None_**: *Did not meet*
+
+
+First Meeting: 2019-01-16
+⋅⋅⋅ Desktop Team 5.2 - Pam, Erika, Alex, & Robert
+
+#### Scope: A desktop that exists in the browser
+
+>Three main components: 
+>
+>All:
+>1. Login screen: For now is guest
+>* User specific
+
+
+
+#### Components 
+
+>* Top Toolbar:
+>   1. Pursuit Logo
+>   2. Drop down
+>       * Should be based on what is open
+>   3. Current Time
+>   4. Input field
+>   5. Mimic:
+>       * Battery: May be mimic
+>       * Wifi
+>       * Sound
+>* Desktop:
+>   1. Folders: *Following Mac structure, minus sidebar*
+>       *  5.2 Class
+>           *  Students
+>           *  LinkedIn: With Icon
+>           *  GitHub: With Icon -> Person project?:
+>           *  Resume: popup with a pdf also has pdf icon
+>           *  Email: ready to write and email
+>      * Pursuit: Html page that takes you to Pursuit page and Pursuit application
+>      * School work: Pop-ups and stuff
+>      * Meme folder: Favorite memes
+>      * Secret Easter Egg 
+>  
+>    * [*longterm*] Look like the desktop of what the device the user is using
+>* Dock:
+>1. Icons show active programs
+>2. Magnifier effect on icons
+>3. Trash Can: [*longterm*] A Black hole // that grows as you feed it possibly?
+
+
+
+
 
 
 ___
@@ -90,7 +139,7 @@ ___
 
 Data to be hosted for page.
 
-First Meeting: 1/13/19   
+First Meeting: 2019-01-13   
 ⋅⋅⋅ Firebase Team 5.2 - Jay, Abdel, & Jorge
 >So on the Firebase Team what we discussed the final structure of the `developer object`. We’ll be working on different `object` models to better create, retrieve and use the data. For now, we’ll create one or two of these `objects` with dummy data just to supply it to any of the other features that need info to draw from. In future meetings, if anyone has any suggestion of the `object model` or of any extra info they think should be useful to display or would look nice, we’ll add it.
 
