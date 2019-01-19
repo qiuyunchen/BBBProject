@@ -33,14 +33,48 @@
     font-size: 20px;
 }
 
+/* Descktop Style */
+
 .desktop{
     background-size:cover;
     height:45rem;
-    background-image: url('/Desktop_View/assets/taco_nyan.jpg');
+    background-image: url('/Desktop_View/assets/images/default-wallpaper.jpg');
     background-repeat: no-repeat;
 
 }
 
+
+
+.meme-folder{
+    margin-top: 1rem;
+    text-align: center;
+}
+.meme-img{
+    background: rgba(255, 0, 0, 0 );
+    background-image: url('/Desktop_View/assets/images/folder.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 4.5rem 4.5rem;
+    border: none;
+    height: 3.2rem;
+    width: 5.2rem;
+}
+
+.meme-tag{
+    color:white;
+  
+
+}
+
+.test-window{
+    background: white;
+    height: 10rem;
+    width: 10rem;
+}
+
+
+
+/* Dock Style */
 
 
 
