@@ -33,6 +33,14 @@
     font-size: 20px;
 }
 
+.desktop{
+    background-size:cover;
+    height:45rem;
+    background-image: url('/Desktop_View/assets/taco_nyan.jpg');
+    background-repeat: no-repeat;
+
+}
+
 
 
 
