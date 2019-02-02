@@ -1,0 +1,78 @@
+
+body {
+    margin: 20px;
+}
+/* Replace with TK's search bar design */
+.search-engine {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.searchbox {
+    width: 80%;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.searchbox:focus {
+    outline: none;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.fellow-list {
+    display: flex;
+    width: 80%;
+    min-width: 50%;
+    flex-wrap: wrap;
+    /* background-color: lightblue; */
+    justify-content: center;
+}
+.row {
+    width: 100%;
+    min-width: 680px;
+    background-color: #1B212C;
+    color: white;
+    /* border-bottom: 1px solid #82C7A5; */
+    margin-bottom: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.profilepic {
+    display: flex;
+    width: 25%;
+    min-width: 170px;
+    /* border: 1px solid white; */
+    flex-wrap: wrap;
+    justify-content: center;
+    border-right: 2px solid #82C7A5;
+    padding-right: 10px;
+}
+.desc {
+    width: 70%;
+    margin-left: 20px;
+    /* border: 1px solid white; */
+}
+.pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    border: solid 1px white;
+}
+.fellowName {
+    margin-top: 10px;
+    font-size: 20pt;
+}
+.storyHeader {
+    text-align: center;
+    font-size: 15pt;
+}
+.story {
+    font-size: 11pt;
+}
+.seeMore {
+    color: white;
+}
+.seeMore:hover {
+    color: #82C7A5;
+}
